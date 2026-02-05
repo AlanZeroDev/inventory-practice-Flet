@@ -16,5 +16,4 @@ Aplicación simple de gestión de stock desarrollada en Python usando Flet, Pand
 
 ## Estado del proyecto
 En desarrollo / Proyecto de aprendizaje
-# inventory-practice-Flet
-# inventory-practice-Flet
+
